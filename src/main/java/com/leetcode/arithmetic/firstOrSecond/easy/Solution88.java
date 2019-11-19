@@ -1,7 +1,6 @@
-package com.leetcode.arithmetic.easy;
+package com.leetcode.arithmetic.firstOrSecond.easy;
 
 import java.util.Arrays;
-import java.util.LinkedList;
 
 /**
  * 合并两个有序数组

@@ -1,4 +1,4 @@
-package com.leetcode.arithmetic.second.easy;
+package com.leetcode.arithmetic.third.easy;
 
 import java.util.HashMap;
 import java.util.Map;

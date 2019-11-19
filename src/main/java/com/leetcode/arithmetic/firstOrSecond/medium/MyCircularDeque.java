@@ -1,4 +1,4 @@
-package com.leetcode.arithmetic.medium;
+package com.leetcode.arithmetic.firstOrSecond.medium;
 
 public class MyCircularDeque {
 

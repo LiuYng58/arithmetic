@@ -1,4 +1,4 @@
-package com.leetcode.arithmetic.easy;
+package com.leetcode.arithmetic.firstOrSecond.easy;
 
 import java.util.Arrays;
 
